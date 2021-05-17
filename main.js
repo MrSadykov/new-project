@@ -5,7 +5,3 @@
 function showNumber(d) {
 	alert(d);
 }
-
-function sayHello(name) {
-	alert('Hello' + name);
-}
